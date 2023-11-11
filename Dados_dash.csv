@@ -1,0 +1,27 @@
+﻿id;pais;UF;siglaUF;populacao_hab;area_km2;numMunicipios;dadosSNIS;mun_dadosSNIS;km2_dadosSNIS;hab1000_dadosSNIS;statusValidacao;conforme;naoConforme
+1;Brasil;Acre;AC;881935;152581;22;3;7.33;50860.33;293.98;validado;3;2
+2;Brasil;Alagoas;AL;3322820;27767;102;4;25.5;6941.75;830.71;validado;4;0
+3;Brasil;Amazonas;AM;4063614;1559168;62;37;1.68;42139.67;109.83;não validado;-;-
+4;Brasil;Amapá;AP;797722;142815;16;8;2;17851.83;99.72;validado;3;5
+5;Brasil;Bahia;BA;15344447;564692;417;163;2.56;3464.37;94.14;validado;89;26
+6;Brasil;Ceará;CE;9020460;146348;184;108;1.7;1355.08;83.52;não validado;-;-
+7;Brasil;Espírito Santo;ES;4108508;46078;78;25;3.12;1843.1;164.34;não validado;-;-
+8;Brasil;Goiás;GO;6778772;340086;246;88;2.8;3864.61;77.03;não validado;-;-
+9;Brasil;Maranhão;MA;7000229;331983;217;72;3.01;4610.88;97.23;validado;44;28
+10;Brasil;Minas Gerais;MG;21119536;586514;853;455;1.87;1289.04;46.42;não validado;-;-
+11;Brasil;Mato Grosso do Sul;MS;2839188;357146;79;63;1.25;5668.98;45.07;não validado;-;-
+12;Brasil;Mato Grosso;MT;3344544;903357;141;71;1.99;12723.34;47.11;não validado;-;-
+13;Brasil;Pará;PA;8366628;1245871;144;73;1.97;17066.72;114.61;não validado;-;-
+14;Brasil;Paraíba;PB;4025558;56585;223;29;7.69;1951.19;138.81;não validado;-;-
+15;Brasil;Pernambuco;PE;9473266;98938;185;39;4.74;2536.87;242.9;validado;22;17
+16;Brasil;Piauí;PI;3219257;251756;224;68;3.29;3702.29;47.34;validado;32;34
+17;Brasil;Paraná;PR;11320892;199315;399;304;1.31;655.64;37.24;não validado;-;-
+18;Brasil;Rio de Janeiro;RJ;16718956;43696;92;41;2.24;1065.76;407.78;não validado;-;-
+19;Brasil;Rio Grande do Norte;RN;3507003;53307;167;56;2.98;951.91;62.63;validado;35;5
+20;Brasil;Rondônia;RO;1815278;237765;52;16;3.25;14860.33;113.45;não validado;-;-
+21;Brasil;Roraima;RR;652713;223645;15;8;1.88;27955.56;81.59;validado;6;2
+22;Brasil;Rio Grande do Sul;RS;11322895;281707;497;170;2.92;1657.1;66.61;não validado;-;-
+23;Brasil;Santa Catarina;SC;7001161;95731;295;65;4.54;1472.78;107.71;não validado;-;-
+24;Brasil;Sergipe;SE;2288116;22050;75;23;3.26;958.71;99.48;validado;14;2
+25;Brasil;São Paulo;SP;45595497;248209;645;467;1.38;531.5;97.63;não validado;-;-
+26;Brasil;Tocantins;TO;1550194;278421;139;46;3.02;6052.62;33.7;validado;26;20
